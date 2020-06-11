@@ -11,7 +11,7 @@
   height: 200px;
 }
 
-.row column1 h2{
+.row .column1 h2{
   background-color: pink;
   border: 2px solid black;
   display: inline;
