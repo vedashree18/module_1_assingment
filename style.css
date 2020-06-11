@@ -11,9 +11,19 @@
   height: 200px;
 }
 
-.row h2{
+.row column1 h2{
   background-color: pink;
-  border: 2px solid purple;
+  border: 2px solid black;
+  display: inline;
+}
+.row .column2 h2{
+  background-color: red;
+  border: 2px solid black;
+  display: inline;
+}
+.row .column3 h2{
+  background-color: orange;
+  border: 2px solid black;
   display: inline;
 }
 
